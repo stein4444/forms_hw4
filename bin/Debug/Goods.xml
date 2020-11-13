@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfGoods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Goods>
+    <name>Gtxt 1660</name>
+    <character>6gb</character>
+    <description>Gaming videocard</description>
+    <price>240</price>
+  </Goods>
+  <Goods>
+    <name>Ryzen 5 3600x</name>
+    <character>3.9hz</character>
+    <description>Ppocessor by Amd</description>
+    <price>180</price>
+  </Goods>
+  <Goods>
+    <name>Rtx 270</name>
+    <character>8Gb</character>
+    <description>Gaming videocard</description>
+    <price>400</price>
+  </Goods>
+  <Goods>
+    <name>Gtx 1070</name>
+    <character>4Gb</character>
+    <description>Gaming videocard</description>
+    <price>150</price>
+  </Goods>
+</ArrayOfGoods>

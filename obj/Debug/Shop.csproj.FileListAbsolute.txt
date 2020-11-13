@@ -1,0 +1,11 @@
+E:\c# 2semestr\Shop\bin\Debug\Shop.exe.config
+E:\c# 2semestr\Shop\bin\Debug\Shop.exe
+E:\c# 2semestr\Shop\bin\Debug\Shop.pdb
+E:\c# 2semestr\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+E:\c# 2semestr\Shop\obj\Debug\Shop.Form1.resources
+E:\c# 2semestr\Shop\obj\Debug\Shop.GoodsInfo.resources
+E:\c# 2semestr\Shop\obj\Debug\Shop.Properties.Resources.resources
+E:\c# 2semestr\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+E:\c# 2semestr\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\c# 2semestr\Shop\obj\Debug\Shop.exe
+E:\c# 2semestr\Shop\obj\Debug\Shop.pdb
